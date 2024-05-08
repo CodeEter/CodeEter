@@ -15,29 +15,7 @@ As a collaborative team member, I thrive in fast-paced environments where creati
 
 Please feel free to explore my GitHub repositories and contact me with any questions or project inquiries. Thank you for your consideration.
 
-## 💪 Overview
 
-<p>
-  <a href="https://github.com/RisingStar-Web/RisingStar-Web" >
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=RisingStar-Web&show=JavaScript,TypeScript,Solidity&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" height="180px"/>
-  </a>
-  
-  <a href="https://github.com/RisingStar-Web/RisingStar-Web" >
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=RisingStar-Web&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="RisingStar-Web's GitHub Stats" height="180px"/>
-  </a>
-  
- </p>
- 
- <p>
-  
-  [![trophy](https://github-profile-trophy.vercel.app/?username=RisingStar-Web&theme=onedark&row=1&&column=7)](https://github.com/ryo-ma/github-profile-trophy)
- </p>
- 
-<br />
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=RisingStar-Web&bg_color=000000&color=ff00ff&line=ff00ff&point=ffffff&area=true&hide_border=true) 
-
-<br />
 
 ## 📖 Languages
  
