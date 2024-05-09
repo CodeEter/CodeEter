@@ -1,21 +1,11 @@
-<img alt="full stack developer" src="https://github.com/RisingStar-Web/RisingStar-Web/blob/master/full-stack.png" width="100%" />
 
 <h1 align="center">Hi, there! 👋</h1>
 
 <h3 align="center">🙏🙏🙏  Thanks for reaching out to me! 🙏🙏🙏 </h3>
 
 ### 👨🏻‍💻 &nbsp;About Me
-<img align="right" alt="GIF" src="https://github.com/RisingStar-Web/RisingStar-Web/blob/master/coding-gif.gif" width="420" />
 
-As a Full Stack Developer with extensive experience in React, Node.js and Solidity, I am passionate about creating robust, scalable applications that deliver a seamless user experience. With a deep understanding of the latest technologies and best practices, I am committed to delivering high-quality code that meets project requirements and exceeds client expectations.
-
-Whether working on the front-end, back-end, blockchain, I have a proven track record of delivering innovative solutions that solve complex problems. My technical expertise includes React, Node.js, Solidity, Hardhat, Web3, Ethersjs, Express, MongoDB, HTML, CSS, and JavaScript, and I am always exploring new tools and frameworks to enhance my skills.
-  
-As a collaborative team member, I thrive in fast-paced environments where creativity and problem-solving are valued. I am skilled in working with stakeholders to gather requirements, develop project plans, and manage timelines, and I am committed to delivering projects on-time and on-budget.
-
-Please feel free to explore my GitHub repositories and contact me with any questions or project inquiries. Thank you for your consideration.
-
-
+Highly skilled and results-driven Blockchain Engineer with a deep understanding of distributed ledger technology and a proven track record of developing innovative blockchain solutions. Committed to driving technological advancements and delivering impactful results. Seeking a challenging position to leverage my expertise and contribute to the growth and success of a cutting-edge organization.
 
 ## 📖 Languages
  
@@ -38,6 +28,3 @@ Please feel free to explore my GitHub repositories and contact me with any quest
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
 <div/>
 
-<br />
-
-![](https://komarev.com/ghpvc/?username=RisingStar-Web&color=0000ff)
