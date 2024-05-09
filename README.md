@@ -35,6 +35,14 @@ Highly skilled and results-driven Blockchain Engineer with a deep understanding 
   <br/>
 </h1>
 
+### **Skills:**
+- Blockchain Ecosystem & Platforms (Ethereum/BSC/Solana/Polygon)
+- Smart Contract Development / Testing / Auditing (ERC20, ERC721, ERC1155, BEP20, BEP721, BEP1155)
+- DeFi & Dapps (Uniswap, PancakeSwap, NFT minting site, NFT marketplace - Metaplex, Wallet)
+- Web3.js / Ether.js
+- Truffle / Hardhat / Cargo
+- Front-End develpment (React.js / Vue.js / React-Native)
+
 ## 📖 Languages
  
 <div align="left">
