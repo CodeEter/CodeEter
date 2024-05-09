@@ -36,13 +36,14 @@ Highly skilled and results-driven Blockchain Engineer with a deep understanding 
 </h1>
 
 ### **Skills:**
-- Blockchain Ecosystem & Platforms (Ethereum/BSC/Solana/Polygon)
-- Smart Contract Development / Testing / Auditing (ERC20, ERC721, ERC1155, BEP20, BEP721, BEP1155)
-- DeFi & Dapps (Uniswap, PancakeSwap, NFT minting site, NFT marketplace - Metaplex, Wallet)
-- Web3.js / Ether.js
-- Truffle / Hardhat / Cargo
-- Front-End develpment (React.js / Vue.js / React-Native)
-
+- Blockchain Development: Proficient in developing decentralized applications (DApps) using blockchain frameworks such as Ethereum (Solidity), Hyperledger Fabric, or Corda. Experienced in smart contract development, token creation, and implementing consensus algorithms.
+- Distributed Ledger Technology: In-depth knowledge of various blockchain platforms, including public and private blockchains. Familiarity with cryptographic principles, hash functions, digital signatures, and secure key management.
+- Programming Languages: Expertise in languages such as Solidity, JavaScript, Python, and Go. Strong understanding of object-oriented programming (OOP) and design patterns.
+- Smart Contracts: Extensive experience in designing and implementing smart contracts for various use cases, including supply chain management, decentralized finance (DeFi), non-fungible tokens (NFTs), and identity management.
+- Security and Auditing: Proficient in conducting security audits and identifying vulnerabilities in blockchain systems. Skilled in implementing security best practices and ensuring compliance with industry standards.
+- Blockchain Tools and Frameworks: Familiarity with popular blockchain development tools, frameworks, and libraries such as Truffle, Web3.js, Ganache, Remix, and OpenZeppelin.
+- Problem Solving: Strong analytical and problem-solving abilities to address complex challenges in blockchain development. Proven track record of delivering scalable and efficient solutions.
+- Collaboration and Communication: Excellent teamwork and communication skills, enabling effective collaboration with cross-functional teams and stakeholders.
 ## 📖 Languages
  
 <div align="left">
