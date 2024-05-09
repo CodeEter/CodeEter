@@ -1,8 +1,3 @@
-
-<h1 align="center">Hi, there! 👋</h1>
-
-<h3 align="center">🙏🙏🙏  Thanks for reaching out to me! 🙏🙏🙏 </h3>
-
 ### 👨🏻‍💻 &nbsp;About Me
 
 Highly skilled and results-driven Blockchain Engineer with a deep understanding of distributed ledger technology and a proven track record of developing innovative blockchain solutions. Committed to driving technological advancements and delivering impactful results. Seeking a challenging position to leverage my expertise and contribute to the growth and success of a cutting-edge organization.
