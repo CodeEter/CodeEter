@@ -33,27 +33,6 @@ Highly skilled and results-driven Blockchain Engineer with a deep understanding 
     <img alt="NFT" src="https://img.shields.io/badge/NFT-00560e?style=flat&logo=WolframLanguage&logoColor=white" />
   </a>
   <br/>
-  <a href="/">
-    <img alt="React.js" src="https://img.shields.io/badge/-ReactJS-61DAFB?style=flat&logo=react&logoColor=white" />
-  </a>
-  <a href="/">
-    <img alt="Redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux&logoColor=white" />
-  </a>
-  <a href="/">
-    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-239120?style=flat&logo=javascript&logoColor=white" />
-  </a>
-  <a href="/">
-    <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" />
-  </a>
-  <a href="/">  
-    <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=white" />
-  </a>
-  <a href="/">
-    <img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=flat&logo=python&logoColor=white" />
-  </a>
-  <a href="/">  
-    <img alt="Github" src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github" />
-  </a>
 </h1>
 
 ## 📖 Languages
