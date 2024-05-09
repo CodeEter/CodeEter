@@ -7,6 +7,55 @@
 
 Highly skilled and results-driven Blockchain Engineer with a deep understanding of distributed ledger technology and a proven track record of developing innovative blockchain solutions. Committed to driving technological advancements and delivering impactful results. Seeking a challenging position to leverage my expertise and contribute to the growth and success of a cutting-edge organization.
 
+<h1 align="center">
+  <a href="/">
+    <img alt="Bitcoin" src="https://img.shields.io/badge/Bitcoin-ab790d?style=flat&logo=bitcoin&logoColor=white" />
+  </a>
+    <a href="/">
+    <img alt="Ethereum" src="https://img.shields.io/badge/Ethereum-303030?style=flat&logo=ethereum&logoColor=white" />
+  </a>
+  <a href="/">
+    <img alt="Binance" src="https://img.shields.io/badge/Binance-ffd050?style=flat&logo=binance&logoColor=black" />
+  </a>
+  <a href="/">
+    <img alt="Solana" src="https://img.shields.io/badge/Solana-c551dd?style=flat&logo=WhenIwork&logoColor=white" />
+  </a>
+  <a href="/">
+    <img alt="Polygon" src="https://img.shields.io/badge/Polygon-f12424?style=flat&logo=webcomponents.org&logoColor=white" />
+  </a>
+  <a href="/">
+    <img alt="DeFi" src="https://img.shields.io/badge/DeFi-137CBD?style=flat&logo=Blueprint&logoColor=white" />
+  </a>
+  <a href="/">
+    <img alt="Dapp" src="https://img.shields.io/badge/DApp-fb8160?style=flat&logo=CashApp&logoColor=white" />
+  </a>
+  <a href="/">
+    <img alt="NFT" src="https://img.shields.io/badge/NFT-00560e?style=flat&logo=WolframLanguage&logoColor=white" />
+  </a>
+  <br/>
+  <a href="/">
+    <img alt="React.js" src="https://img.shields.io/badge/-ReactJS-61DAFB?style=flat&logo=react&logoColor=white" />
+  </a>
+  <a href="/">
+    <img alt="Redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux&logoColor=white" />
+  </a>
+  <a href="/">
+    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-239120?style=flat&logo=javascript&logoColor=white" />
+  </a>
+  <a href="/">
+    <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" />
+  </a>
+  <a href="/">  
+    <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=white" />
+  </a>
+  <a href="/">
+    <img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=flat&logo=python&logoColor=white" />
+  </a>
+  <a href="/">  
+    <img alt="Github" src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github" />
+  </a>
+</h1>
+
 ## 📖 Languages
  
 <div align="left">
